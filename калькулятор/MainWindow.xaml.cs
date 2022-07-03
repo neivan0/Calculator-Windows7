@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 using System.Text.RegularExpressions;
 
 
-
+//111111
 namespace калькулятор
 {  
     public partial class MainWindow : Window
